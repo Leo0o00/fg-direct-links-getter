@@ -1,0 +1,8 @@
+flask==3.0.3
+flask-cors==4.0.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+selenium==4.6          # optional; only if you hit JS-heavy mirrors
+webdriver-manager==4.0.1  # auto-download chromedriver
+setuptools==8.0.1
+undetected-chromedriver==3.5.5
